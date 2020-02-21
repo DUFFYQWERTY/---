@@ -1,0 +1,81 @@
+body{
+    
+background: #fc00ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+}
+
+/* все для заголовка*/
+.header{
+    color: aqua;
+    text-align: center;
+    font-size: 40px;
+}
+/* все для текста с пояснением*/
+.explanation{
+    text-align: center;
+    float: left;
+    clear: both;
+    width: 80%;
+    height: 450px;
+    margin-left: 10%;
+    font-size: 250%;   
+}
+/* все для ссылок*/
+.help_stuff{
+    text-align: center;
+    float: left;
+    clear: both;
+    width: 80%;
+    height: 450px;
+    margin-left: 10%;
+    font-size: 250%;    
+}
+
+/* отступы для стафа*/
+.li_tow{
+    
+    border: 20px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

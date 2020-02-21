@@ -1,0 +1,35 @@
+body{
+    
+    background: #b92b27;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1565C0, #b92b27);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1565C0, #b92b27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
+
+/* все для заголовка*/
+.header{
+    color: aqua;
+    text-align: center;
+    font-size: 35px;
+}
+
+/* все для текста с пояснением*/
+.explanation{
+    text-align: center;
+    float: left;
+    clear: both;
+    width: 80%;
+    height: 450px;
+    margin-left: 10%;
+    font-size: 250%;   
+}
+/* все для ссылок*/
+.help_stuff{
+    text-align: center;
+    float: left;
+    clear: both;
+    width: 80%;
+    height: 450px;
+    margin-left: 10%;
+    font-size: 250%;    
+}

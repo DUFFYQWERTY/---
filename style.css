@@ -1,0 +1,257 @@
+/*тело всего*/
+body {
+  height: 100%;
+  background: url(https://www.valuewalk.com/wp-content/uploads/2019/01/data_privacy_1548350453-1024x682.jpg) ;
+  background-repeat: repeat-y;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  font: 700 1.875em/2.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+
+/*контейнер заголовка*/
+.divheader {
+  float: left;
+  width: 80%;
+  height: 70px;
+  margin-left: 10%;
+  margin-bottom: 70px;
+}
+/*текст в заголовке*/
+.header {
+  font-size: 38px;    
+  float: left;
+  width: 100%;
+  min-height: 70px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+
+
+/*анимация наведения и косания*/
+.link_to_site {
+  float: left;
+  width: 49%;
+  height: 450px;
+  border: 3px solid rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+  -webkit-transform: 0.5s;
+  -moz-transform: 0.5s;
+  -o-transform: 0.5s;
+  -ms-transform: 0.5s;
+  transform: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+  -webkit-filter: 0.5s;
+  -moz-filter: 0.5s;
+  -o-filter: 0.5s;
+  -ms-filter: 0.5s;
+  filter: 0.5s;
+}
+/*наведение*/
+.link_to_site-1:hover {
+  -webkit-transform: translate(10px, -50px);
+  -moz-transform: translate(10px, -50px);
+  -ms-transform: translate(10px, -50px);
+  -o-transform: translate(10px, -50px);
+  transform: translate(10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-3:hover {
+  -webkit-transform: translate(10px, -50px);
+  -moz-transform: translate(10px, -50px);
+  -ms-transform: translate(10px, -50px);
+  -o-transform: translate(10px, -50px);
+  transform: translate(10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-5:hover {
+  -webkit-transform: translate(10px, -50px);
+  -moz-transform: translate(10px, -50px);
+  -ms-transform: translate(10px, -50px);
+  -o-transform: translate(10px, -50px);
+  transform: translate(10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-7:hover {
+  -webkit-transform: translate(10px, -50px);
+  -moz-transform: translate(10px, -50px);
+  -ms-transform: translate(10px, -50px);
+  -o-transform: translate(10px, -50px);
+  transform: translate(10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-9:hover {
+  -webkit-transform: translate(10px, -50px);
+  -moz-transform: translate(10px, -50px);
+  -ms-transform: translate(10px, -50px);
+  -o-transform: translate(10px, -50px);
+  transform: translate(10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-10:hover {
+  -webkit-transform: translate(-10px, -50px);
+  -moz-transform: translate(-10px, -50px);
+  -ms-transform: translate(-10px, -50px);
+  -o-transform: translate(-10px, -50px);
+  transform: translate(-10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-2:hover {
+  -webkit-transform: translate(-10px, -50px);
+  -moz-transform: translate(-10px, -50px);
+  -ms-transform: translate(-10px, -50px);
+  -o-transform: translate(-10px, -50px);
+  transform: translate(-10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-4:hover {
+  -webkit-transform: translate(-10px, -50px);
+  -moz-transform: translate(-10px, -50px);
+  -ms-transform: translate(-10px, -50px);
+  -o-transform: translate(-10px, -50px);
+  transform: translate(-10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-6:hover {
+  -webkit-transform: translate(-10px, -50px);
+  -moz-transform: translate(-10px, -50px);
+  -ms-transform: translate(-10px, -50px);
+  -o-transform: translate(-10px, -50px);
+  transform: translate(-10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+.link_to_site-8:hover {
+  -webkit-transform: translate(-10px, -50px);
+  -moz-transform: translate(-10px, -50px);
+  -ms-transform: translate(-10px, -50px);
+  -o-transform: translate(-10px, -50px);
+  transform: translate(-10px, -50px);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+
+/*косание*/
+.link_to_site:active {
+  box-shadow: 7px 7px 7px rgba(0, 0, 0, .5), 3px 5px 8px rgba(0, 0, 0, .5);
+}
+/*внутренности контейнера кнопок*/
+.box {
+  float: left;
+  clear: both;
+  width: 80%;
+  height: 450px;
+  margin-left: 10%;
+}
+/*растояние первого контейнера от заголовка*/
+.box-1 {
+  margin-top: 70px;
+}
+
+/*растояние между контейнерами*/
+.box {
+  margin-top: 60px;
+}
+/*расположение кнопок в их контейнере*/
+.link_to_site-10,
+.link_to_site-2,
+.link_to_site-4,
+.link_to_site-6,
+.link_to_site-8 {
+  margin-left: 2%;
+}
+
+.link_to_site-1,
+.link_to_site-3,
+.link_to_site-5,
+.link_to_site-7,
+.link_to_site-9 {
+  margin: -1px 0 0 -1%;
+}
+/*шрифт в кнопках*/
+.link_name{
+    font-size: 50px;
+    text-align: center;
+}
+/* тут css для бекграунда кнопок и перехода на страницу с текстом*/
+.link_to_site-1{
+    background-image: url(https://im0-tub-ru.yandex.net/i?id=10bc835137f2f8e293d5267dfdba86a4&n=13);
+    background-size: cover;
+    background-position: center center;
+    
+}
+.link_to_site-2{
+    background-image: url(https://pctechnews.ru/wp-content/uploads/2019/09/Облачные-хранилища-2.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-3{
+    background-image: url(https://pbs.twimg.com/media/CTXOwd-UcAAfyJZ.jpg:large);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-4{
+    background-image: url(http://www.tiranatimes.com/wp-content/uploads/2019/05/Top-Secret.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-5{
+    background-image: url(https://s-kuranty.ru/wp-content/uploads/2019/04/шифрование.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-6{
+    background-image: url(https://avatars.mds.yandex.net/get-zen_doc/1950904/pub_5d38261c86c4a900aecff052_5d383e60a2d6ed00acd7e573/scale_1200);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-7{
+    background-image: url(https://avatars.mds.yandex.net/get-zen_doc/1550999/pub_5ca57ee021a86300b4ca99da_5ca584bb3f197100b3e9ce8c/scale_1200);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-8{
+    background-image: url(https://resources.infosecinstitute.com/wp-content/uploads/Smartphone-App-SSL-02052013.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-9{
+    background-image: url(https://pbs.twimg.com/media/EFcFWDnUwAA2Bix.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.link_to_site-10{
+    background-image: url(https://i1.wp.com/www.wifipassword-hacker.com/wp-content/uploads/2017/06/wifi.jpg?fit=1626%2C1579&ssl=1);
+    background-size: cover;
+    background-position: center center;
+}
+/* loader 4 */
+.loader4, .loader4 div {
+	@include loaderDivMixin;
+	border-radius: 50%;
+	padding: 4px;
+	animation: rotate2 4s infinite linear;
+}
+
+div:hover {
+	animation-play-state: paused;
+}
+
+.loader, .loader * {
+	will-change: transform;
+}
